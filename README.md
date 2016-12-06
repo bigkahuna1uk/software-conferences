@@ -1,2 +1,2 @@
-# software-conferences
-Notes I made attending software conferences
+# Software Conferences
+Notes I have made whilst attending software conferences
