@@ -1,11 +1,5 @@
 # LJC Conference 2016
 
-__IBM WIFI__ 
-
-* ckelly01
-* 7u5z9rfz
-
-
 ## Keynote
 
 
